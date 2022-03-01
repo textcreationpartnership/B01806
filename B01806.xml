@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief narrative of the case between His Royal Highness James duke of York, lord of the mannor of Richmond aliàs West-sheen, in the county of Surry; George Carew esq; one of the customary tenants of the said manor, and Sir James Butler, mortgagee upon a conditional surrender, and others concerned in the said case.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01806</idno>
+            <idno type="STC">Wing B5024A</idno>
+            <idno type="STC">ESTC R173092</idno>
+            <idno type="EEBO-CITATION">52211712</idno>
+            <idno type="OCLC">ocm 52211712</idno>
+            <idno type="VID">175444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175444)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2737:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief narrative of the case between His Royal Highness James duke of York, lord of the mannor of Richmond aliàs West-sheen, in the county of Surry; George Carew esq; one of the customary tenants of the said manor, and Sir James Butler, mortgagee upon a conditional surrender, and others concerned in the said case.</title>
+                  <author>Brown, John, gent.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London : s.n.,</name>
+                     <date>1682]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Signed and dated at end: Recollected by John Brown, gent. April 20. 1682.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carew, George, --  Esq. --  Trials, litigation, etc.</term>
+               <term>James --  II, --  King of England, 1633-1701 --  Trials, litigation, etc.</term>
+               <term>Butler, James, --  Sir, fl. 1682 --  Trials, litigation, etc.</term>
+               <term>Copyhold --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175444:1"/>
+            <head>A Brief NARRATIVE of the CASE between His Royal Highneſs JAMES Duke of York, Lord of the Mannor of <hi>Richmond</hi> aliàs <hi>West-ſheen,</hi> in the County of <hi>Surry; George Carew</hi> 
+               <abbr>Eſq</abbr> one of the Cuſtomary Tenants of the ſaid Man<g ref="char:EOLhyphen"/>nor, and Sir <hi>James Butler,</hi> Mortgagee upon a Conditional Surrender, and others concerned in the ſaid Caſe.</head>
+            <head type="sub">The Honour and Intereſt of the King, The Juſtice and Equity of the Na<g ref="char:EOLhyphen"/>tion, and the Rights and Properties of the Subjects being all concerned in this CASE. There is nothing recited in any Article or Paragraph, where<g ref="char:EOLhyphen"/>in there are not ſufficient matters of Record for the Vouchers thereof.</head>
+            <p>THe ſaid <hi>George Carew</hi> having purchaſed Eight ſeveral Copy-hold Cottages with ſome ſmall parcels of Land adjacent to them in the ſaid Mannor of <hi>Richmond,</hi> demoliſhed the ſaid Cot<g ref="char:EOLhyphen"/>tages, and built Three Fair Manſion Houſes with Coach-houſes and Stables in the places thereof, and laid other Lands to the ſame, whereby he encreaſed the King's Revenue by Harth-money, and the Lord's Rent.</p>
+            <p>Soon after the King's moſt happy Reſtoration the ſaid <hi>Carew</hi> having a very Conſiderable Debt due to him from the <hi>Eaſt-India</hi> Company of the Netherlands, ariſing upon the Spoils and Depredations of Sir <hi>William Courten</hi> and Sir <hi>Paul Pindar</hi>'s Ships and Factories, he made Application to the King and Council for Relief therein: Whereupon his Majeſty did by his Letters under his Sign Manual recommend the Complaints to the States General, and Commanded Sir <hi>George Downing</hi> Knight and Barronet his Envoy Extraordinary to demand Satisfaction of the ſaid States, anſwerable to the Proofs made in the High Court of Admiralty, which was required by ſeveral Memorials accordingly: In conſequence whereof it was agreed in a publique Treaty concluded at <hi>London</hi> between the King and the States General in the year 1662. That Satisfaction ſhould be made for the Two Ships named the <hi>Bona Eſperanza</hi> and the <hi>Henry bona Adventura</hi> with their Fraights and Lading.</p>
+            <p>In the year 1663. the ſaid <hi>Carew</hi> confiding in the ſaid Treaty, borrowed ſeveral Summs of Money of <hi>Thomas Colman</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Whitfield</hi> 
+               <abbr>Eſq</abbr> and others, upon his Eſtate in <hi>Richmond, London</hi> and <hi>Worceſterſhire,</hi> to diſcharge a great Debt due to Sir <hi>William Powel</hi> by Judgment in the Common-Pleas, that was incum<g ref="char:EOLhyphen"/>bent upon Sir <hi>Paul Pindar,</hi> who had an Aſſignment for 5500 <abbr>l.</abbr> with Pollices of Inſurance for the ſame upon the ſaid Ships, that both Intereſts might be taken into <hi>Carew</hi>'s hands; which being ſo done, he proſecuted his Right, and Demand before the States General at the <hi>Hague</hi> by freſh Memorials, which Sir <hi>George Downing</hi> preſented at the Kings further Inſtance and Command, for ſeveral Months together without effect.</p>
+            <p>Then Sir <hi>George Downing</hi> intimated to Sir <hi>Thomas Littleton</hi> That 300 <abbr>l.</abbr> ſterling ſhould be left in his hands, in truſt to be placed in the <hi>Hague</hi> with ſome Miniſters of State, in order to an Accommodation of that Affair, which was paid out of Sir <hi>John Wolſtenholm</hi>'s Receipt to the ſaid <hi>Downing;</hi> upon Account of the ſaid <hi>Carew,</hi> Sir <hi>John Woolſtenholme</hi> having Money in his hands payable to <hi>Carew</hi> upon Bond, on Sir <hi>Paul Pindar</hi>'s Account. Nevertheleſs the States General made a Reſolution on the fourth day of <hi>June</hi> 1664. to give no further Satisfaction than 85000 Gilders that the Eaſt India Company had paid to <hi>Jacob Pergens,</hi> on the Security of <hi>Peter Boudaen</hi> to indempnify the ſaid Company, he being one of the Dire<g ref="char:EOLhyphen"/>ctors of the Chamber at <hi>Middleburgh</hi> (which had been often controverted and the Company refuted
+<pb n="2" facs="tcp:175444:2"/>therein) whereupon Sir <hi>George Downing</hi> made his reply on the Eleventh of <hi>Auguſt,</hi> 1664. and ſoon after return'd into <hi>England, re infecta.</hi>
+            </p>
+            <p>The ſaid <hi>George Carew</hi> having ſold <hi>Aunton</hi> farm in the Vale of <hi>Eveſham</hi> to Mr. <hi>Thomas Fooly</hi> for 3800 <abbr>l.</abbr> and further engaged his Eſtate at <hi>Richmond</hi> and <hi>London,</hi> in the proſecution of his right aforeſaid, was advi<g ref="char:EOLhyphen"/>ſed by ſeveral principal Miniſters of State at White-hall to addreſs his Complaint to the Houſe of COM<g ref="char:EOLhyphen"/>MONS, where it was animated by ſome Members of the Royal Company: ſo that upon Examination of the whole Matter by the Committee, who finding the King's Honour concern'd, and that the Hol<g ref="char:EOLhyphen"/>landers, by their Artifices, would add Fraud to Violence, in that Caſe of the Ships aforeſaid, the COM<g ref="char:EOLhyphen"/>MONS of <hi>England</hi> eſpouſed the Cauſe, and ſupplyed his Majeſty with ſeveral Millions of Money for maintaining a War againſt the ſaid States: Whereof his Royal Highneſs the Duke of <hi>York</hi> had the ſumm of 120902 <abbr>l.</abbr> 15 <abbr>s.</abbr> 8 <abbr>d.</abbr> (one Months Tax) preſented to him, for his Heroick Courage at Sea.</p>
+            <p>Then Letters Patents for Repriſal were granted to the ſaid <hi>Carew,</hi> on the behalf of himſelf and others intereſted, to continue effectual in the Law until the ſumm of 151612 <abbr>l.</abbr> ſhould be recovered from the States General and their Subjects. Nevertheleſs a Peace inſued in the year 1667. before any ſatis<g ref="char:EOLhyphen"/>faction was obtained: And by the Treaty at <hi>Breda</hi> all Offences, Injuries and Dammages were mentio<g ref="char:EOLhyphen"/>ned to be obliterated and extinguiſhed: and the Letters of Repriſal to be null and void: notwithſtand<g ref="char:EOLhyphen"/>ing the Dammages were ſtated under the great Seal of England, whereby the Debt became veſted in <hi>Carew</hi> by the Law of Nations, and coupled with an Authority to recover the Debt and Dammages, according to the Laws and Statutes of this Realm. However <hi>Carew</hi> remained paſſive untill the year 1671. that a new War was proclaimed againſt the States General and their Subjects.</p>
+            <p>Then <hi>Carew's</hi> Claim to the ſaid Debt of 151612 <abbr>l.</abbr> being revived, by Orders of the King and Council, he was forthwith ſent away with Inſtructions and Letters to the Ambaſſadors and Plenepotentiaries, in the year 1672. intimating how the King being obliged in Honour and Juſtice to ſee that Debt ſatisfied, they were directed to inſiſt upon Reparations accordingly: However <hi>Carew</hi> was Committed to Priſon at the <hi>Hague,</hi> by the States of <hi>Holland,</hi> for a Spy, and his Life expoſed to danger, where he was cloſe Con<g ref="char:EOLhyphen"/>fined, without acceſs, for two and twenty Months together; during which time, <hi>Edward Holmewood,</hi> then Bayliff of the Mannor of <hi>Richmond,</hi> having a Mortgage by ſurrender, of <hi>Rump Hall</hi> and Lands adjacent, to the value of 20 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> let by Leaſe to <hi>Thomas Evans,</hi> he exacted 20 <abbr>l.</abbr> for a fine for his own ad<g ref="char:EOLhyphen"/>mittance; and 55 <abbr>l.</abbr> from Sir <hi>Frederick Hyde</hi> and his Lady, who had a ſurrender of one of the Manſion Houſes and <hi>Kew Heath,</hi> notwithſtanding <hi>Carew</hi> had ordered the Tenants before, to attorn and pay their Rents upon Account, which they did accordingly; and to aggravate the Oppreſſion, both <hi>Hyde</hi> and <hi>Holme<g ref="char:EOLhyphen"/>wood</hi> Exhibited their Bills in <hi>Chancery,</hi> to forecloſe the Equity of Redemption, although at the ſame time they were in poſſeſſion, and received the Rents, which anſwered yearly double the Intereſt of their Monys lent upon thoſe conditional ſurrenders.</p>
+            <p>In the year 1674. A Peace and common Alliance was again Concluded and Ratified, between the King and the <hi>States General,</hi> upon a Treaty at <hi>Weſtminſter,</hi> wherein it was agreed, That <hi>Eight Hundred Thouſand Pattacoons</hi> ſhould be paid to the King in four years, by equal payments: whereof the firſt was paid to Alderman <hi>Backwel,</hi> for other Services, and the three other payments Aſſigned to the Prince of <hi>Orange,</hi> for old Debts, contracted by the late King: but no part of the money aſſigned towards the ſpoiles and depredations of the <hi>Bona Eſperanza</hi> and <hi>Henry Bona Adventura,</hi> but left the Debt of 151612 <abbr>l.</abbr> remain<g ref="char:EOLhyphen"/>ing unſatisfied <hi>in ſtatue quo,</hi> to the proper Remedy aſſigned at Law.</p>
+            <p>In the year 1677. <hi>Carew</hi> (after his vaſt Expence and Charges abroad) returned for <hi>England,</hi> to look after the ruines of his Eſtate in <hi>London</hi> and <hi>Richmond,</hi> having laboured under the burthen of continuation and Intereſt ſo many years together; He then reduced all the Mortgages in <hi>Richmond,</hi> to <hi>Hide, Holmewood</hi> and <hi>Letton</hi> into one hand, and Surrendred the ſame to Mr. <hi>John Holworthy</hi> for 2200 <abbr>l.</abbr> upon condition to be void upon payment of his Principal and Intereſt, at the end of ſix Months, who continued the ſaid Money at Intereſt after forfeiture, ſeveral years together, without any fine or admittance.</p>
+            <p>Afterwards Sir <hi>James Butler,</hi> on the fifth of <hi>July</hi> 1680. lent the ſaid <hi>Carew</hi> the ſum of 2500 <abbr>l.</abbr> to ſatisfy Mr. <hi>Holworthy</hi> his Principal and Intereſt, and took a Conditional Surrender, for payment of 2650 <abbr>l.</abbr> on the ſixth of <hi>July</hi> 1681. Howbeit the Money was not paid at the time: Then one <hi>Robert White,</hi> Bayliff of the ſaid Mannor of <hi>Richmond,</hi> being informed by Sir <hi>John Coell,</hi> Steward of the ſaid Mannor, who took the ſaid Surrender; That the Lord of the Mannor might take advantage of the Forfeiture for non-payment of the Money, according to the condition of the Surrender (which is no other than the Nature of a Pe<g ref="char:EOLhyphen"/>nal Bond) yet the ſaid <hi>White</hi> called a Court on purpoſe, in the Month of <hi>October</hi> following, where Sir <hi>James Butler</hi> voluntarily appeared, and obliged himſelf to pay an Arbitrary Fine of 261 <abbr>l.</abbr> ſet upon him
+<pb n="3" facs="tcp:175444:2"/>by the ſaid <hi>White,</hi> for his admittance as in Caſe of a Purchaſor; and ſuddenly after forbid the Tenants from paying any Rents to <hi>Carew.</hi>
+            </p>
+            <p>Then the ſaid Sir <hi>Ja. Butler</hi> Exhibited his Bill in <hi>Chancery,</hi> in <hi>Michaelmas</hi> Term following, to forecloſe the Equity of Redemption: whereunto <hi>Carew</hi> Appeared and Anſwered the ſame, wherein he confeſſed the Re<g ref="char:EOLhyphen"/>ceipt of the 2500 <abbr>l.</abbr> &amp; that for improvement of the ſaid Mortgaged Eſtate, he had laid out 300 <abbr>l.</abbr> &amp; upwards ſince Sir <hi>James</hi> had lent the ſaid 2500 <abbr>l.</abbr> That he had offered that all the Tenants ſhould attorn and pay the Rents to Sir <hi>James Butler</hi> upon Account, if he would renew the Surrender; that the ſaid Mortgaged Premiſes had <hi>bona fide</hi> coſt the ſaid <hi>Carew</hi> 8000 <abbr>l.</abbr> and upwards, and that he had been offered 4500 <abbr>l.</abbr> lately for the ſame, and intended to redeem the ſaid Eſtate, by himſelf or a Friend, provided the Arbitrary Fine, voluntarily paid by the ſaid Sir <hi>James Butler</hi> in his own wrong, might not be brought to his Account; which ſaid Sir <hi>James Butler</hi> refuſed, pretending that he was continually ſolicited by the ſaid <hi>White</hi> at <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> Sir <hi>John Coell</hi> at <hi>London,</hi> and by Sir <hi>Allen Apſley</hi> at <hi>Whitehall,</hi> to be admitted a Tenant to the Eſtate, notwithſtanding all the matters and circumſtances aforeſaid were well known to the ſaid perſons re<g ref="char:EOLhyphen"/>ſpectively, he the ſaid <hi>Carew</hi> having given them a Narrative of his Sufferings at large, under the Title of <hi>Hine Illae Lachrymae;</hi> Or an Hue and Cry after the Goods and Chattells of Sir <hi>William Courten</hi> and Sir <hi>Paul Pindar,</hi> before Sir <hi>James Butler</hi> was admitted to the ſaid Eſtate, who vigorouſly proceeds in the ſaid Cauſe, which is left to the Judgment of the Court, whether it be within the intent of the Law or Equity, that de<g ref="char:EOLhyphen"/>feazible and conditional Eſtates, ſhall be ſubject to ſuch Arbitrary Fines, as in the caſes of Purchaſors, who becomes Tenants to the Lords of Mannors, for their own advantages and conveniencies.</p>
+            <p>The ſaid <hi>Carew</hi> in the mean time caſting about to anſwer Sir <hi>James Butler's</hi> expectations, offered him the Earl of <hi>Antrime's</hi> Debt in <hi>Ireland,</hi> and importuned Sir <hi>George Downing,</hi> to refund the ſaid 300 <abbr>l.</abbr> with In<g ref="char:EOLhyphen"/>tereſt, (towards payment of Sir <hi>James Butler</hi>) <hi>Downing</hi> having been ſued in Chancery for the ſame, and inſiſted for the ſpace of ſeaven years upon his Priviledge, as a Parliament Man, and after the Diſſolution of the Parliament, pleaded the Statute of Limitations, which being ſet down in the Paper to be argued as a Truſt, and not within the Statute: Sir <hi>George Downing</hi> deſired a Reference upon the whole matter, to Mr. <hi>William Whitlock</hi> and Mr. <hi>Paul Bowes,</hi> the Council of both ſides, and in caſe they did not make any Award within a time prefixt, then to the Umpirage of Mr. <hi>Anthony Keck,</hi> which was drawn up into an Order of Court by conſent, and renewed four ſeveral times, at the requeſt of Sir <hi>George Downing,</hi> who inſiſted at all meetings, that he deſerved the ſaid 300 <abbr>l.</abbr> for his pains, although nothing was recovered thereupon from the <hi>States General</hi> or their Subjects, for the ſaid ſpoiles and depredations aforeſaid: and <hi>Carew</hi> inſiſtin-that <hi>Downing</hi> had his Salery from the King, and did nothing for him, but upon the Kings Order and Com<g ref="char:EOLhyphen"/>mand, as a publick Miniſter, ſo the Arbitrators made no Award. Then on the 8th. of <hi>January</hi> 1681. both parties appeared before Mr. <hi>Anthony Keck;</hi> who propoſed that Sir <hi>George Downing</hi> ſhould pay only 100 <abbr>l.</abbr> to the ſaid <hi>Carew,</hi> in full of his demands concerning the ſaid 300 <abbr>l.</abbr> which <hi>Downing</hi> ſeemed unwilling to ſa<g ref="char:EOLhyphen"/>tisfy; ſo Mr. <hi>Keck</hi> concluded that 80 <abbr>l.</abbr> ſhould be paid to <hi>Carew,</hi> upon giving his General Releaſe to Sir <hi>George Downing,</hi> and Procuring Sir <hi>Thomas Wolstenholme,</hi> Executor of Sir <hi>John Wolſtenholme</hi> to do the ſame, which Sir <hi>George Downing</hi> promiſed to pay accordingly, before Credible Witneſſes: whereupon both Releaſes being perfected, <hi>Carew</hi> Aſſigned the 80 <abbr>l.</abbr> to <hi>Thomas Coleman</hi> 
+               <abbr>Eſq</abbr> who tendring the ſaid Releaſes, demanded the ſaid Mony, which Sir <hi>George Downing</hi> refuſed to pay, without Security to indemnify him from all perſons whatſoever, concerning the 300 <abbr>l.</abbr> and Damages. <hi>Carew</hi> then Arreſted the ſaid <hi>Downing</hi> by Writ out of the <hi>Marſhalſea,</hi> for the ſaid Money upon his promiſe: Then Sir <hi>George Downing</hi> applyed him<g ref="char:EOLhyphen"/>ſelf to Mr. <hi>Anthony Keck,</hi> requeſting him to ſign the Award, for the payment of 80 <abbr>l.</abbr> as aforeſaid, in full diſcharge of the ſaid 300 <abbr>l.</abbr> which being ſigned accordingly; <hi>Coleman</hi> waited upon <hi>Downing</hi> with the Releaſes again, demanding the ſaid 80 <abbr>l.</abbr> who refuſed to pay any more then 70 <abbr>l.</abbr> to him; ſaying, That if he did not then accept of the ſame, he would pay him but 60 <abbr>l.</abbr> ſo <hi>Coleman,</hi> of his own accord, delivered the Releaſes, and took 70 <abbr>l.</abbr> of the worthy Knight, and calls upon <hi>Carew</hi> for the other 10 <abbr>l.</abbr> who had ex<g ref="char:EOLhyphen"/>pended more than the 80 <abbr>l.</abbr> to recover it. Now the Queſtion is, whether <hi>Downing</hi> be not obliged to pay the 10 <abbr>l</abbr> to <hi>Carew,</hi> and be accountable in Conſcience for the reſt of the 300 <abbr>l.</abbr> with Intereſt, to the indi<g ref="char:EOLhyphen"/>gent Orphans and Widdows, Creditors of Sir <hi>Paul Pindar,</hi> as Executor in his own wrong? ſince he detains the ſaid Money without any conſideration from <hi>Carew</hi> the Adminiſtrator of <hi>Pindar.</hi>
+            </p>
+            <p>Then the ſaid <hi>Carew</hi> having a Grant under the Great Seal of <hi>England</hi> (the higheſt Security of the Kingdom) for the ſum of 10000 Pounds out of the Cuſtoms, and a Tally for the ſame, reſting in the Hands of <hi>Richard Mountney</hi> 
+               <abbr>Eſq</abbr> towards Sir <hi>Paul Pindars</hi> proportion of Mony, granted by his Majeſty, out of a greater ſumm, amongſt the old Farmers, <hi>Carew</hi>'s part was poſt-poned, in his abſence beyond the Seas; whereupon he lately addreſſed his humble Petition to the King for the ſame, with the brief ſtate of this Caſe Annexed, and put it into the Hands of Sir <hi>James Butler,</hi> who promiſed to uſe his utmoſt endeavors to get ſatisfaction therein, both for <hi>Carew</hi> and himſelf, who only lodged the Petition with Mr. <hi>Francis Gwyn,</hi> the Lord <hi>Conways</hi> Secretary, where it lays alſo <hi>re infecta;</hi> although it is the only return of A Hundred and Eighty Thouſand Pounds Sterling, lent and advanced by Sir <hi>Paul Pindar</hi> to the late King upon
+<pb n="4" facs="tcp:175444:3"/>his moſt urgent occaſions; and even of 15000 <abbr>l.</abbr> in Gold, ſent to <hi>Oxford,</hi> in the years 1643. and 1644. by Mrs. <hi>Jane Whorewood</hi> (yet living to Teſtify the ſame) towards ſupport of the Royal Family, in their great<g ref="char:EOLhyphen"/>eſt Extremities, which was lately owned by his Majeſty himſelf, as the greateſt ſervice in the World.</p>
+            <p>Its obſervable, that ſeveral perſons concerned in this Caſe, have been very unſenſible of the Kings honor and Intereſt, and even of the Reputation of his Royal Highneſs in the Conduct of this Affair (who is ſo Generous in his own Nature.) And, its Remarkable, that the ſaid <hi>Robert White,</hi> being told of the ill conſequences of his practices, and the prejudice it would bring upon his Maſter and the Tenants of the Mannor of <hi>Richmond</hi> (he ſeemed the more obſtinate) where for want of a Court of Survey, and the very Court Rolls detained from the Tenants View, <hi>Carew</hi> had been forced to the Expence and Damages of 100 <abbr>l.</abbr> and upwards, in defence of <hi>Kew Heath,</hi> againſt Sir <hi>John Brownelow</hi> and his Tenants, who pretended that the ſaid Heath was Free-hold Land, after ſeveral Sur<g ref="char:EOLhyphen"/>renders, Admittances and Fines paid to the Lord of the Mannor for the ſame Heath, as Coppy-hold Land. And this <hi>Robert White</hi> was ſo malicious, after all theſe admonitions, that out of a blind Zeal for his Maſters ſervice, he cauſed a poor Servant of <hi>Carews</hi> to be Arreſted in Sir <hi>Allen Apſleys</hi> and <hi>Wordens</hi> Names, by Writ out of the <hi>Marſhalſeas,</hi> for digging ſome Gravel upon <hi>Richmond</hi> Common, to carry into one of the ſaid <hi>Carews</hi> Gardens: Who then affirmed in open Court (as ſtill the ſaid <hi>Carew</hi> doth affirm the ſame) that there is a Debt of 359 <abbr>l.</abbr> ſterling, incumbent upon his Royal Highneſs, for monies paid and disburſed by <hi>Carew,</hi> upon the Duke and his Commiſſioners Orders and Warrants, to Captain <hi>John Maxwel</hi> and <hi>Daniel Gottherſon,</hi> concerning the Apprehending of <hi>Thomas Scott</hi> (one of the Regicides) which was to be paid and allowed to <hi>Carew,</hi> out of the Dukes Intereſt in <hi>Scots</hi> Houſes, in the Pariſhes of St. <hi>Andrews</hi> and St. <hi>Dunſtans</hi> in the Weſt, in the City of LONDON, which were c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nveyed by Mr. <hi>Benjamin Heather,</hi> to Sir <hi>Samuel Baldwin,</hi> by Fine and Feofment, upon a valuable Conſideration, in Truſt for <hi>Carew: Scot</hi> having no Eſtate in him to forfeit in the ſaid Houſes, at the time of the Treaſon Committed, nor the King in him, to Grant to his Royal Highneſs at any time afterwards.</p>
+            <p>
+               <hi>The premiſes conſidered, it's preſumed there cannot be found the like Preſident of Grievance and Oppreſſion; That a perſon under thoſe circumſtances as Mr.</hi> George Carew <hi>ſtands, ſhould be ruined by the means appointed for his Relief, or deſtroyed under the greateſt Security of the Kingdom, granted for his Satisfaction and Reparations; And all this, under the Government of</hi> ENGLAND, <hi>where ſo many thankful Addreſſes have been made to his Majeſty, for his moſt gratious Declaration, to maintain the Rights and Properties of the Subjects, by the ſtrictest Rules of Law and Juſtice.</hi>
+            </p>
+            <closer>
+               <dateline>Recollected by <hi>John Brown</hi> Gent. <date>
+                     <hi>April</hi> 20. 1682.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
